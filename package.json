@@ -1,0 +1,22 @@
+{
+  "name": "imgpreload",
+  "version": "0.0.1",
+  "description": "imgpreload",
+  "main": "imgpreload.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyingzi/imgpreload.git"
+  },
+  "keywords": [
+    "imgpreload"
+  ],
+  "author": "h.yingzi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyingzi/imgpreload/issues"
+  },
+  "homepage": "https://github.com/hyingzi/imgpreload#readme"
+}
